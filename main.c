@@ -12,42 +12,45 @@ int main () {
 
     int escolha , escolha_paragens;
 
-    escolha = criarmenu();
 
-    switch (escolha) {
+    while (1) {
+        escolha = criarmenu();
 
-        // ---------- 0 - Sair ----------
-        case 0:
-            printf("Obrigado pela preferencia");
-            return 0;
-            break;
+        switch (escolha) {
 
-
-            // ---------- 1 - Paragens ----------
-        case 1:
-            escolha_paragens=paragens();
-            switch (escolha_paragens) {
-                case 1:
-
-                    return 0;
-                    break;
+            // ---------- 0 - Sair ----------
+            case 0:
+                printf("Obrigado pela preferencia");
+                return 0;
+                break;
 
 
-                case 2:
+                // ---------- 1 - Paragens ----------
+            case 1:
+                escolha_paragens=paragens();
+                switch (escolha_paragens) {
 
-                    return 0;
-                    break;
+                    // ---------- 1 - Registar paragem ----------
+                    case 1:
+                        registar_paragem();
+                        return 0;
+                        break;
 
+                        // ---------- 2 - Eliminar paragem ----------
+                    case 2:
+                        eliminar_paragem();
+                        return 0;
+                        break;
 
-                case 3:
-                    mostra_paragens();
-                    return 0;
-                    break;
-            }
+                        // ---------- 3 - Visualizar paragens ----------
+                    case 3:
+                        mostra_paragens();
+                        return 0;
+                        break;
+                }
 
+                break;
 
-
-
+        }
     }
-
 };
