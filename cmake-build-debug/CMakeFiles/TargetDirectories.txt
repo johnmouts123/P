@@ -1,3 +1,0 @@
-C:/Users/João Mota/Desktop/FACULDADE/1º Ano/Programação/TP 22-23/PROGRAMA-O/cmake-build-debug/CMakeFiles/TP_22_23.dir
-C:/Users/João Mota/Desktop/FACULDADE/1º Ano/Programação/TP 22-23/PROGRAMA-O/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/João Mota/Desktop/FACULDADE/1º Ano/Programação/TP 22-23/PROGRAMA-O/cmake-build-debug/CMakeFiles/rebuild_cache.dir
