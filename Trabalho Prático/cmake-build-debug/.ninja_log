@@ -1,0 +1,16 @@
+# ninja log v5
+14	196	7081262021940378	CMakeFiles/trabalho_pratico.dir/main.c.obj	db1690fdc64428d6
+231	435	7081262024202309	trabalho_pratico.exe	71ae89021668aed0
+3	206	7081262022043172	CMakeFiles/trabalho_pratico.dir/paragens.c.obj	bb3271aa50e908b1
+33	210	7081198348058463	CMakeFiles/trabalho_pratico.dir/utils.c.obj	4e37f1edeaad2a55
+23	231	7081262022294163	CMakeFiles/trabalho_pratico.dir/linhas.c.obj	5c9d345aab0df44b
+2	74	7080310032054426	CMakeFiles/trabalho_pratico.dir/menu.c.obj	878bcf1b13512269
+33	185	7081262021839423	CMakeFiles/trabalho_pratico.dir/calculo_percursos.c.obj	65d6a1ce72b75336
+6	551	7081285958079777	build.ninja	a931e517045e5531
+4	218	7081286060732622	trabalho_pratico.exe	ecfa96a9f9b4d273
+3	177	7090821172454024	CMakeFiles/trabalho_pratico.dir/linhas.c.obj	5c9d345aab0df44b
+177	492	7090821175583080	trabalho_pratico.exe	ecfa96a9f9b4d273
+11	266	7090839456883334	CMakeFiles/trabalho_pratico.dir/paragens.c.obj	bb3271aa50e908b1
+267	569	7090839459866624	trabalho_pratico.exe	ecfa96a9f9b4d273
+3	162	7090852177535755	CMakeFiles/trabalho_pratico.dir/paragens.c.obj	bb3271aa50e908b1
+162	349	7090852179297892	trabalho_pratico.exe	ecfa96a9f9b4d273
